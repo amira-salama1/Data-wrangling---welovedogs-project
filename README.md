@@ -1,4 +1,7 @@
+
 # Data-wrangling---weratedogs-project
+Udacity assignment for Data Analysis
+
 __Project overview and describtion__:
 Use Python and its libraries( pandas, NumPy, requests, tweepy, json),to gather data from a variety of sources and in a variety of formats, assess its **quality** and **tidiness**, then clean it(Detect and document at least eight (8) quality issues and two (2) tidiness issues in wrangle_act.ipynb Jupyter Notebook), document wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
 
